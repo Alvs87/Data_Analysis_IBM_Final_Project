@@ -30,7 +30,7 @@ Das métricas importantes para este contexto, podemos citar
 - Internal Rate of Return (IRR)
 - Cash Flow
 - Gross Rent Multiplier (GRM)
-Fonte: https://www.toucantoco.com/en/blog/real-estate-kpis#:~:text=A%20real%20estate%20Key%20Performance,in%20the%20real%20estate%20industry.
+
 Como atividade do curso, estas métricas não serão analisadas, ainda que importantes em outros contextos.
 O escopo desta atividade é entender quais são as variáveis que mais impactam o valor de uma residência, e estimar a magnitude de tal impacto, para então entender como precificar o produto.
 
@@ -80,6 +80,7 @@ Após estes testes, testamos a regressão Ridge, com parametro de regularizaçã
 da regressão Ridge é desencorajar o ajuste excessivo de dados
 
 Fontes:
+Fonte: https://www.toucantoco.com/en/blog/real-estate-kpis#:~:text=A%20real%20estate%20Key%20Performance,in%20the%20real%20estate%20industry.
 https://medium.com/@kvmoura/crisp-dm-79580b0d3ac4#:~:text=O%20ciclo%20de%20vida%20apresentado,informa%C3%A7%C3%B5es%20ou%20aperfei%C3%A7oamentos%20do%20processo.
 https://medium.com/turing-talks/turing-talks-20-regress%C3%A3o-de-ridge-e-lasso-a0fc467b5629
 https://scikit-learn.org/stable/modules/compose.html
